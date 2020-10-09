@@ -20,7 +20,12 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
+* [] Improved UI with styling, icons, color, spacing
+* [] Improved style of todo items using custom adapter
+* [] Add suport for completion due dates for todo items
+* [] Add suport for selecting priority for each todo item
 * [x] None
+
 
 ## Video Walkthrough
 
