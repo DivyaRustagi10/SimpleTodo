@@ -31,7 +31,9 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
+
 Issues:
+
 App crash on long press to delete item: To troubleshoot, make sure your ItemsAdapter is declared correctly as a field and assigned appropriately 
 for the delete functionality.
 
